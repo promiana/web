@@ -399,16 +399,16 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 #hero .carousel-content {
-  background: rgba(28, 23, 21, 0.7);
+  background: rgba(232, 243, 236, 0.7);
   padding: 20px;
-  color: #fff;
+  color: #212529;
   -webkit-animation-duration: .5s;
   animation-duration: .5s;
-  border-top: 5px solid #f03c02;
+  border-top: 5px solid #c4c4c4;
 }
 
 #hero .carousel-content h2 {
-  color: #fff;
+  color: #212529;
   margin-bottom: 30px;
   font-size: 28px;
   font-weight: 700;
@@ -425,14 +425,14 @@ h1, h2, h3, h4, h5, h6 {
   transition: 0.5s;
   line-height: 1;
   margin: 10px;
-  color: #fff;
+  color: #212529;
   -webkit-animation-delay: 0.8s;
   animation-delay: 0.8s;
-  border: 2px solid #f03c02;
+  border: 2px solid #212529;
 }
 
 #hero .btn-get-started:hover {
-  background: #f03c02;
+  background: #212529;
   color: #fff;
   text-decoration: none;
 }
@@ -459,7 +459,7 @@ h1, h2, h3, h4, h5, h6 {
 #hero .carousel-inner .active.carousel-item-left,
 #hero .carousel-inner .active.carousel-item-right {
   left: 0;
-  transform: translate3d(0, 0, 0);
+  transform: translate3d(10, 10, 10);
 }
 
 #hero .carousel-control-prev, #hero .carousel-control-next {
@@ -472,6 +472,7 @@ h1, h2, h3, h4, h5, h6 {
   line-height: 1;
   width: auto;
   height: auto;
+  color: #c4c4c4
 }
 
 #hero .carousel-indicators li {
