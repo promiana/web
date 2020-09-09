@@ -14,7 +14,7 @@ body {
 }
 
 a {
-  color: #f03c02;
+  color: #025d45;
 }
 
 a:hover {
@@ -81,11 +81,11 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 #topbar .contact-info a:hover {
-  color: #f03c02;
+  color: #025d45;
 }
 
 #topbar .contact-info i {
-  color: #f03c02;
+  color: #025d45;
   padding: 4px;
 }
 
@@ -104,7 +104,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 #topbar .social-links a:hover {
-  color: #f03c02;
+  color: #025d45;
 }
 
 /*--------------------------------------------------------------
@@ -175,7 +175,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 .nav-menu a:hover, .nav-menu .active > a, .nav-menu li:hover > a {
-  color: #f03c02;
+  color: #025d45;
   text-decoration: none;
 }
 
@@ -213,7 +213,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 .nav-menu .drop-down ul a:hover, .nav-menu .drop-down ul .active > a, .nav-menu .drop-down ul li:hover > a {
-  color: #f03c02;
+  color: #025d45;
 }
 
 .nav-menu .drop-down > a:after {
@@ -310,7 +310,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 .mobile-nav a:hover, .mobile-nav .active > a, .mobile-nav li:hover > a {
-  color: #f03c02;
+  color: #025d45;
   text-decoration: none;
 }
 
@@ -606,7 +606,7 @@ section {
 }
 
 .cta h3 span {
-  color: #f03c02;
+  color: #025d45;
 }
 
 .cta p {
@@ -627,7 +627,7 @@ section {
   margin: 10px;
   border-radius: 4px;
   border: 2px solid #f03c02;
-  color: #f03c02;
+  color: #025d45;
   background: #fff;
 }
 
@@ -703,11 +703,11 @@ section {
 }
 
 .services .icon-box:hover .icon i {
-  color: #f03c02;
+  color: #025d45;
 }
 
 .services .icon-box:hover .title a {
-  color: #f03c02;
+  color: #025d45;
 }
 
 .services .description {
@@ -785,7 +785,7 @@ section {
 }
 
 .portfolio .portfolio-item .portfolio-info .preview-link:hover, .portfolio .portfolio-item .portfolio-info .details-link:hover {
-  color: #f03c02;
+  color: #025d45;
 }
 
 .portfolio .portfolio-item .portfolio-info .details-link {
@@ -881,7 +881,7 @@ section {
 .about-us .content .icon-box i {
   font-size: 48px;
   float: left;
-  color: #f03c02;
+  color: #025d45;
 }
 
 .about-us .content .icon-box p {
@@ -949,7 +949,7 @@ section {
 }
 
 .team .member .social a:hover {
-  color: #f03c02;
+  color: #025d45;
 }
 
 .team .member .social i {
@@ -996,7 +996,8 @@ section {
 }
 
 .skills .progress .skill {
-  padding: 0;
+  padding-bottom: 1px;
+  padding-top: 7px;
   margin: 0 0 6px 0;
   text-transform: uppercase;
   display: block;
@@ -1018,7 +1019,7 @@ section {
   width: 1px;
   height: 10px;
   transition: .9s;
-  background-color: #f03c02;
+  background-color: #025d45;
 }
 
 /*--------------------------------------------------------------
@@ -1040,7 +1041,7 @@ section {
 }
 
 .features .nav-link:hover {
-  color: #f03c02;
+  color: #025d45;
 }
 
 .features .nav-link h4 {
@@ -1055,7 +1056,7 @@ section {
 
 .features .nav-link.active {
   box-shadow: 0px 0 15px rgba(0, 0, 0, 0.12);
-  color: #f03c02;
+  color: #025d45;
 }
 
 .features .tab-pane.active {
@@ -1104,7 +1105,7 @@ section {
 
 .pricing h4 {
   font-size: 42px;
-  color: #f03c02;
+  color: #025d45;
   font-weight: 500;
   font-family: "Open Sans", sans-serif;
   margin-bottom: 20px;
@@ -1160,8 +1161,8 @@ section {
 }
 
 .pricing .btn-buy:hover {
-  color: #f03c02;
-  border-color: #f03c02;
+  color: #025d45;
+  border-color: #025d45;
 }
 
 .pricing .featured {
@@ -1184,7 +1185,7 @@ section {
 }
 
 .pricing .featured .btn-buy:hover {
-  color: #f03c02;
+  color: #025d45;
   background: #fff;
   border-color: #fff;
 }
@@ -1215,7 +1216,7 @@ section {
   margin: 10px;
   border-radius: 4px;
   border: 2px solid #f03c02;
-  color: #f03c02;
+  color: #025d45;
   background: #fff;
 }
 
@@ -1294,7 +1295,7 @@ section {
 
 .contact .info i {
   font-size: 20px;
-  color: #f03c02;
+  color: #025d45;
   float: left;
   width: 44px;
   height: 44px;
@@ -1460,7 +1461,7 @@ section {
 }
 
 .portfolio-details .portfolio-details-carousel .owl-dot.active {
-  background-color: #f03c02 !important;
+  background-color: #025d45 !important;
 }
 
 .portfolio-details .portfolio-info h3 {
@@ -1522,7 +1523,7 @@ section {
 }
 
 .blog .entry .entry-title a:hover {
-  color: #f03c02;
+  color: #025d45;
 }
 
 .blog .entry .entry-meta {
@@ -1645,7 +1646,7 @@ section {
 }
 
 .blog .entry .entry-footer a:hover {
-  color: #f03c02;
+  color: #025d45;
 }
 
 .blog .entry .entry-footer .cats {
@@ -1750,7 +1751,7 @@ section {
 }
 
 .blog .blog-comments .comment h5 a:hover {
-  color: #f03c02;
+  color: #025d45;
 }
 
 .blog .blog-comments .comment h5 .reply {
@@ -1823,7 +1824,7 @@ section {
 }
 
 .blog .blog-comments .reply-form .btn-primary:hover {
-  background-color: #f03c02;
+  background-color: #025d45;
 }
 
 .blog .blog-pagination {
@@ -1940,7 +1941,7 @@ section {
 }
 
 .blog .sidebar .categories ul a:hover {
-  color: #f03c02;
+  color: #025d45;
 }
 
 .blog .sidebar .categories ul a span {
@@ -1970,7 +1971,7 @@ section {
 }
 
 .blog .sidebar .recent-posts h4 a:hover {
-  color: #f03c02;
+  color: #025d45;
 }
 
 .blog .sidebar .recent-posts time {
